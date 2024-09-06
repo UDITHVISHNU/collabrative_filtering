@@ -1,0 +1,440 @@
+{
+    "Project Key Word:": [
+        "33kV 800A 25kA/1s RMU Type1 Vic BESS",
+        "2 Swichgears : Poste de Calavi - Tableaux 15kV Poste de Cococodji - Tableau 15kV",
+        "ABBEYLEIX",
+        "EGIP with Metering V2",
+        "Alsema 4 Velden NxplusC",
+        "Ruoholahden sy\u00c3\u00b6tt\u00c3\u00b6asema RL-S10-AC 24/10kV 25kA/1s",
+        "Ruoholahden sy\u00c3\u00b6tt\u00c3\u00b6asema RL-S10-AB 24/10kV 25kA/1s",
+        "PFV PINOS PUENTE 1 41MVA 30KV 1250A 30KV 25KA 1s",
+        "B\u00c3\u201eCKHAMMAREN Syd +HA",
+        "Rio Tinto Mesa J Laydown 33kV Switchboard",
+        "Gorman Main MV Swgr",
+        "PUUTIKANKANGAS 33KV SWITCHGEAR",
+        "JUURAKKO 33KV SWITCHGEAR",
+        "Equinix DB5 Data Centre",
+        "Bagenalstown",
+        "Kesonm\u00c3\u00a4ki (KN\u00c3\u201e) s\u00c3\u00a4hk\u00c3\u00b6asema, Keso 30kV 9-kentt\u00c3\u00a4\u00c3\u00a4",
+        "Rathkeale",
+        "SET AUGUSTO",
+        "PFV LA VEGA I y II ",
+        "Comanda Pirelli 20kV - Extindere 10 buc",
+        "P.E Ablitas",
+        "P.E Cabanillas",
+        "NIDEC_600023248",
+        "PE20112_DLPC_PH_REYES_NXC_8",
+        "MD3.1- 11kV Class 1250A - SUDB",
+        "MS-Station Presswerk 2",
+        "Chile  - Los Diques II DR",
+        "CS 23-035-02 (PO)",
+        "NIDEC_600030838",
+        "PSFV BAOBAB (SEGOVIA) 90MVA 2000A 30KV 25KA_FINAL",
+        "SET Majano - 40 kA (Con rel\u00c3\u00a9s)",
+        "GroenLeven - 24kV - klantstation Sellingen",
+        "12kV installatie Hoek van Holland",
+        "12 kV installatie Zamenhofstraat ",
+        "12kV Amersfoort 2 (additionele velden)",
+        "NxPlus C 36 kV - PFV TICO",
+        "WBBH 33kV Switchboard - SUB2113 (SB2805.SB01)"
+    ],
+    "Switchgear Number:": [
+        "NXPLUS_C-81506, NXPLUS_C-81612, NXPLUS_C-81613, NXPLUS_C-81567",
+        "NXPLUS_C-75346",
+        "NXPLUS_C-74435",
+        "NXPLUS_C-78905",
+        "NXPLUS_C-74584",
+        "NXPLUS_C-84198",
+        "NXPLUS_C-84199",
+        "NXPLUS_C-84580",
+        "NXPLUS_C-68403",
+        "NXPLUS_C-83899",
+        "NXPLUS_C-85188",
+        "NXPLUS_C-84422",
+        "NXPLUS_C-83175",
+        "NXPLUS_C-86134",
+        "NXPLUS_C-74608",
+        "NXPLUS_C-87159",
+        "NXPLUS_C-74285",
+        "NXPLUS_C-75788",
+        "NXPLUS_C-757897",
+        "NXPLUS_C-73880",
+        "NXPLUS_C-71282",
+        "NXPLUS_C-71288",
+        "NXPLUS_C-78145",
+        "NXPLUS_C-74945",
+        "NXPLUS_C-84920",
+        "NXPLUS_C-82893",
+        "NXPLUS_C-85638",
+        "8DAB-100343",
+        "NXPLUS_C-88104",
+        "8DAB-101561",
+        "8DAB-105056",
+        "NXPLUS_C-83638",
+        "NXPLUS_C-66625",
+        "NXPLUS_C-76632 NXPLUS_C-76637",
+        "NXPLUS_C-70370",
+        "NXPLUS_C-83998",
+        "NXPLUSCW-08770"
+    ],
+    "No of Typicals": [
+        "0"
+    ],
+    "SAP Number:": [
+        4510237762,
+        "4516784805",
+        "973340",
+        "4512939022 item 20",
+        "4512939022 item 10",
+        "4511345538",
+        "4513272",
+        "511170",
+        "999675",
+        "973320",
+        "4513341028",
+        "972825",
+        "9500321102",
+        "4509603287",
+        "4513011262",
+        "568384",
+        "572316",
+        "4512860065 Pos. 10",
+        "4511294418",
+        "4512085938 + 4512085943",
+        "4511280365",
+        "4517940980"
+    ],
+    "No. Of Panels :": [
+        64,
+        "2 x 15 (2 Swichgears)",
+        "11",
+        "5 x 3",
+        "4",
+        "6",
+        "5",
+        "3",
+        "32",
+        "16",
+        "9",
+        "7",
+        "8",
+        "13",
+        "25",
+        "16+18",
+        "14"
+    ],
+    "Customer:": [
+        "UGL",
+        "OMEXOM",
+        "ESBI",
+        "Alsema",
+        "Siemens Mobility",
+        "BAYWA",
+        "HOLTAB",
+        "Rio Tinto Ltd (Perth)",
+        "Omexom",
+        "OX2 Wind Finland Oy",
+        "VSB Uusiutuva Energia Suomi Oy",
+        "ATLANTIC PROJECTS COMPANY LTD (DUN LAOGHAIRE)",
+        "Puhuri, Tuulikaarron Voima Oy",
+        "AMETEL",
+        "EDS",
+        "Nidec",
+        "Davao Light and Power Co. Inc.",
+        "Equinix",
+        "Strabag Kft.",
+        "Minera Candelaria",
+        "ENEL GREEN POWER CHILE S.A. (SANTIAGO)",
+        "IGNIS",
+        "GRUPO COBRA",
+        "Groenleven",
+        "Stedin B.V",
+        "Stedin B.V.",
+        "EGP",
+        "Rio Tinto"
+    ],
+    " Detail Design issued for approval: ": [
+        "Yes"
+    ],
+    "Days For Approval": [
+        5,
+        "5",
+        "10",
+        "15",
+        "7",
+        "1 week"
+    ],
+    " Please take note of the currently applied versions of CAD packages: ": [
+        "ELCAD",
+        "ELCAD V.7.7.x"
+    ],
+    " Documentation can be transferred in the following formats: ": [
+        [
+            "PDF",
+            "DXF",
+            "DWG"
+        ],
+        "['PDF', 'DXF', 'DWG']",
+        "['PDF']",
+        "['PDF', 'DFX']",
+        "['PDF', 'DFX', 'DWG']",
+        "PDF",
+        "['dxf / dwg Files', 'pdf Files']",
+        "['PDF', 'CAD']",
+        "['DXC Files', 'PDF Files']",
+        "['PDF', 'DXF']",
+        "['PDF', 'DXF', 'DWG', 'CAD']"
+    ],
+    " Language of documentation: ": [
+        "English",
+        "Other language: French",
+        "Other language: DUTCH",
+        "Other language:  Spanish",
+        "Spanish",
+        "Other (Spanish)",
+        "German",
+        "Other:Spanish",
+        "Other",
+        "Other: Only signal names should be in dutch (as given by  the example) ",
+        "['English', 'Other']",
+        "Other(Spanish)"
+    ],
+    "Additional terminals": [
+        "Please note below: 1.  All secondary component should be suitable for ambient temperature of 60 deg C.2.The following are spare parts (under NXPLUS_C-81506) and need to be packed in a separate box:a.Parts under DTO 26.1/007215_001_P02_P04_P05b.4MC4_30 - 20-SWF-32502_1c.5ST3010-0HGd.CAPDIS S2+3.All O/C relays 7SJ81-P1J616731 are customer supplied to factory4.4.For the Pressure Relief Duct as selected in NXTOOLS+, kindly refer to the customer drawings showing 250mm length.5.Pressure relief duct to be from Side panel of the switchgear.",
+        "Drawings to ESBI Standards See also customer SLD PE689-D565-001-001-004 Note this project is similar to the existing Kildare Project factory number 803039 except for items listed below for each typical",
+        "This is a new ESBI EGIP Standard 4.0 which has an extra Metering panel and different protection relays (now 2 off 7SJ8042) on panel JZ01 to what was provided on previous ESBI EGIP STANDARD 2.4 Last EGIP 2.4 Project was Stephenson EGIP Factory Number 984969",
+        "Drawings to ESBI Standards,See also customer SLD PE492-D041-065-001-001 with mark up,Note this project is similar to the existing Charleville Project factory number 915342 ,Using remote RTU with 24V DC Interposing relays,Note new anti-pumping device to be used on circuit breaker,Interposing open and close relays K21/K22 types changed",
+        "Daimler' s standard wiring format (INTEGRA WELLE 6) based on EPLAN P8 has to be followed, the plans have to be delivered accordingly by the factory."
+    ],
+    " Parameter settings of protection relays: ": [
+        "Customer",
+        "SWF",
+        "RC"
+    ],
+    " Parameter Settings of bus interface: ": [
+        "SWF",
+        "Customer"
+    ],
+    "additionalParamSettings": [],
+    " CT circuit ": [
+        "2.5 (Standard)",
+        "2,5 (Standard)",
+        "['2,5 (Standard)', '4,0 Metering panel only']",
+        "4,0",
+        "4,0 "
+    ],
+    " VT circuit ": [
+        "1,5 (Standard)",
+        "['2,5 (Standard)', '2,5 Metering panel only']",
+        "2,5",
+        "2,5 "
+    ],
+    "Control": [
+        "1.5 (Standard)",
+        "1,5 (Standard)",
+        "2,5"
+    ],
+    "Bus Wiring": [
+        "2.5 (Standard)",
+        "2,5 (Standard)",
+        "4,0",
+        "4,0 "
+    ],
+    " Colored Insulation ": [
+        "Colored (Specification required): CT wiring as per DTO",
+        "Black (Standard)",
+        "Black",
+        "Colored CT, VT and Primary: L1-Red, L2-White, L3-Blue - For secondary wiring: Siemens standard"
+    ],
+    " Wire Type ": [
+        "H05V-K/H07V-K (Standard)(Silicon free, 70 \u00c2\u00b0C)",
+        "H05V-K/H07V-K (Standard) (Silicon free, 70 \u00c2\u00b0C)",
+        "H05V-K/H07V-K (Standard) (Silicon free, 70 Degree)",
+        "H05Z-K/H07Z-K (halogen and silicon free, 90 \u00c2\u00b0C)",
+        "H05Z-K/H07Z-K",
+        "H05V-K/H07V-K (Standard)",
+        "H05Z-K/H07Z-Kp(halogen and silicon free, 90 \u00c2\u00b0C))",
+        "H05Z-K/H07Z-K(halogen and silicon free, 90 \u00c2\u00b0C)",
+        "H05V-K/H07V-K (Standard)(Silicon free, 70 Degree)"
+    ],
+    "Wire Marking": [
+        "with",
+        "Without (Standard)",
+        "With",
+        "['With', 'Without (Standard)']",
+        "Printed or White Label",
+        "Without",
+        "without"
+    ],
+    "Type :": [
+        "Adhesive White Label",
+        "Printed or White Label",
+        "White Label",
+        "Special markers on request"
+    ],
+    "Text": [
+        "Source and Destination (Standard)",
+        "Other  (Connection)",
+        "Source & Destination (Standard)",
+        "Connection (Standard)",
+        "Other",
+        "Source & Destination (Standard) "
+    ],
+    "Panel Nameplate :": [
+        "Plastic holder with paper 140 x 55 mm (Standard)",
+        "Plastic holder with paper140 x 55 mm (Standard)",
+        "Other  Engraved Traffolyte or Gravoply label, adhesive type.",
+        "Plastic holder 140 x 55 mm (Standard)"
+    ],
+    "Control :": [
+        "VBSTB4-FS",
+        "WAGO Topjob S"
+    ],
+    "CT terminals:": [
+        "UT 6-T/SP",
+        "URTK/S ",
+        "URTK/SP"
+    ],
+    "Earth terminals :": [
+        "UT 4-PE"
+    ],
+    "Bus Wiring terminals:": [
+        "UPC3VK",
+        "Other  see DTO",
+        "screwable ringloops UPCV3K-F 1881202"
+    ],
+    "Customer requirements for layout and connection of CT terminals :": [
+        "No",
+        "Yes Metering panel only see section F6  ",
+        "Yes",
+        "Yes (provide detail) CT to be wired in the way shown in PCMI. This is to allow for spare wiring capability for bus bar protection relay (if required by customer) which will be installed in a separate protection panel. Please also pay attention to whether S1 or S2 should be neutralized per PCMI. In case CT leads are supplied in black colour, please just colour marking sleeves: red/white/blue for L1/L2/L3.",
+        "Yes (provide detail)   Same as Ref num 4519812869",
+        "Yes (provide detail)   568384-000010 CASTA\u00c3\u2018O",
+        "Yes (provide detail)   CT terminals (relay input) shall have the facility for automatic short circuiting of the CT secondary when the relay is withdrawn and shall be suitable for the connection of current injection test equipment in all phases and neutral."
+    ],
+    "Customer requirements for layout and connection of VT terminals :": [
+        "No"
+    ],
+    "Customer requirements for layout and connection of Tripping terminals": [
+        "No"
+    ],
+    "Customer requirement for protection of Open Delta winding and connection of damping resistor :": [
+        "No",
+        "Yes",
+        "No. Please leave the open delta core of VT as unused.",
+        "Yes (provide detail)   Same as Ref num 4519812869 Siemens standard damping resistor",
+        "Yes (provide detail)   568384-000010 CASTA\u00c3\u2018O"
+    ],
+    " Auxiliary Voltage ": [
+        "125V DC",
+        "220 V DC",
+        "24V DC",
+        "External supply fed into panel: J01",
+        "110V DC",
+        "H01",
+        "H04",
+        "Generator Feeder for each switchboard",
+        "220V DC Bus section panel J08",
+        "['H01', '10mm2 terminals for supply']",
+        "220V DC",
+        "Redundant supply "
+    ],
+    "Overall switchgear interlocking :": [
+        "as indicated below: ",
+        "as indicated below: + See also 984477 (same philosophy)",
+        "as indicated below:",
+        "as indicated below",
+        "according to drawings 992136",
+        "As Indicated Below",
+        "according to previous projects "
+    ],
+    "On Load Busbar Transfer:": [
+        "Not Required",
+        "Not required",
+        "via Bus"
+    ],
+    "Load Shedding:": [
+        "Not Required",
+        "Not required"
+    ],
+    "Others": [
+        "Detailed Description Required",
+        "See also 984477",
+        "Detailed description required: ",
+        "Required"
+    ],
+    "Description": [
+        "Detailed description required: As per below: a.Incomer DS can be CLOSED only when All feeder CBs are OPEN b.Incomer DS can be OPENED when All feeder CBs are OPEN",
+        "similar as in project 999675",
+        "similar as in project 982380",
+        "Detailed description required: 992136",
+        "Detailed description required:see DTO on each typical",
+        "Detailed description required: Special DTO is used for busbar earthing with modified mimic diagram."
+    ],
+    "Overall protection functions :": [
+        "As Per Spec Paragraph",
+        "as indicated below:",
+        "['Hardwired', 'Breaker Failure protection (50BF)50BF is not required in this project; however, please provide it per PCMI as a spare functionality.', 'Busbar Differential protection (87B)87B is not required in this project; however, please provide it per PCMI as a spare functionality.']",
+        "as indicated below",
+        "['Reverse Interlocking BB protection', 'Hardwired', 'Breaker Failure protection (50BF)', 'Hardwired']",
+        "['Hardwired', 'Bus', 'Breaker Failure protection (50BF)', 'Busbar Differential protection (87B)']",
+        "['according to drawings 992136', 'Reverse Interlocking BB protection', 'Hardwired', 'Breaker Failure protection (50BF)', 'Hardwired']",
+        "as indicated below: Bus (e.g. IEC 61850),Breaker Failure protection (50BF),Hardwired",
+        "Hardwired",
+        "['as indicated below: As PCMI', 'Breaker Failure protection (50BF)', 'Hardwired']",
+        "as indicated below:50/51, 50N/51N, 67/67N, 27 59/59N, 81, 24, 50BF",
+        "according to Spec paragraph below",
+        "according to Spec paragraph: Protection functions are integrated in the IED\u00e2\u20ac\u2122s no \u00e2\u20ac\u02dc\u00e2\u20ac\u2122special\u00e2\u20ac\u2122\u00e2\u20ac\u2122 items need to wired ",
+        "according to Spec paragraph:Protection functions are integrated in the IED\u00e2\u20ac\u2122s no \u00e2\u20ac\u02dc\u00e2\u20ac\u2122special\u00e2\u20ac\u2122\u00e2\u20ac\u2122 items need to wired ",
+        "as per PCMI"
+    ],
+    "LV compartment lighting:": [
+        "230V AC",
+        "No",
+        "Yes 230V AC",
+        "['110V DC', 'Please note in NXTOOLS+ 110V DC can not be selected for LV lighting and heater. Please provided lighting and heater with 110V DC.']",
+        "['Yes', '230V AC']"
+    ],
+    "LV compartment Heater:": [
+        "230V AC",
+        "No",
+        "Yes 230V AC",
+        "['Yes', '110V DC']"
+    ],
+    "CB Mechanism heater": [
+        "230V AC",
+        "No",
+        "['Yes', '110V DC']",
+        "['Yes', '230V AC']",
+        "['No']"
+    ],
+    "LV compartment Utility Socket Outlet": [
+        "No",
+        "Yes Norm of destination country France",
+        "Yes Norm of destination country SPAIN",
+        "Yes"
+    ],
+    "Remote Control": [
+        "No",
+        "Yes",
+        "Yes via interposing relay",
+        "Yes  with Local / Remote switch conventional switch  (e.g. toggle or key switch) ",
+        "['Yes', 'with Local / Remote switch', 'in Siprotec', 'conventional switch  (e.g. toggle or key switch)']",
+        "['Yes', 'with Local / Remote switch']",
+        "['Yes', 'with Local / Remote switch', 'Volt free contacts for remote open and close commands']",
+        "['Yes', 'in Protection relay']",
+        "['']",
+        "['Yes', 'via interposing relays K21/K22']",
+        "['Yes', 'with Local / Remote switch', 'conventional switch  (e.g. toggle or key switch)- Local and remote signals wired to leds with the following color coding Green color for Local and Red color for Remote']",
+        "['Yes', 'with Local/Remote switch', 'via Bus', 'conventional switch(e.g toggle or key switch)-Local and remote signals wired to leds with the following color coding Green color for Local and Red color for Remote']",
+        "['Yes', 'with Local / Remote switch', 'via Bus', 'in Siprotecvia Bus']",
+        "['Yes', 'with Local / Remote switch', 'conventional switch  (e.g. toggle or key switch)']",
+        "['Yes', 'in Siprotec']",
+        "['Yes', 'with Local / Remote switch', 'conventional switch  Key Switch -S017 (e.g.toggle or key switch)']",
+        "['Yes', 'with Local / Remote switch', 'conventional switch (e.g.toggle or key switch)']",
+        "['Yes', 'in Sprecher relay']",
+        "yes,in Sprecher relay",
+        "['Yes', '1 with Local / Remote switch', 'conventional switch  (e.g. toggle or key switch)']",
+        "Yes,with External Local / Remote switch (as per PCMI)"
+    ]
+}
