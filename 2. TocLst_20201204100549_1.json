@@ -1,0 +1,189 @@
+{
+    "Project Data" :{
+        "Project Key Word:":{
+            "value" :"33kV 800A 25kA/1s RMU Type1 Vic BESS"
+        },
+        "Switchgear Number:":{
+            "value" : "NXPLUS_C-81506, NXPLUS_C-81612, NXPLUS_C-81613, NXPLUS_C-81567"
+        },
+        "No of Typicals":{
+            "value" :"3"
+        },
+        "SAP Number:": {
+            "value" : 4510237762
+        },
+        "No. Of Panels :":{
+            "value" : 64
+        },
+        "Customer:":{
+            "value" : "UGL"
+        },
+        " Detail Design issued for approval: ":{
+            "value": "Yes"
+        },
+        "Days For Approval":{
+            "value": 5
+        },
+        "Add Participants" : {
+            "value1":{
+                "Participant:" : "Kapur, Parul",
+                "Contact:" : "Project Manager",
+                "Email Id:" : "parul.kapur@siemens.com",
+                "Phone:" : "+61 408 560-793"
+            },
+            "value2":{
+                "Participant:" : "Rahman, Atiqur",
+                "Contact:" : "Project Designer ",
+                "Email Id:" : "md_rahman@siemens.com",
+                "Phone:" : "+61 447 291-382"
+            }
+        }
+    },
+    "Documentation" :{
+        " Please take note of the currently applied versions of CAD packages: " :{
+            "value" : "ELCAD"
+        },
+        " Documentation can be transferred in the following formats: ":{
+            "value" : ["PDF","DXF","DWG"]
+        },
+        " Language of documentation: " :{
+            "value" : "English"
+        },
+        "Additional terminals" :{
+            "value" : "Please note below: 1.  All secondary component should be suitable for ambient temperature of 60 deg C.2.The following are spare parts (under NXPLUS_C-81506) and need to be packed in a separate box:a.Parts under DTO 26.1/007215_001_P02_P04_P05b.4MC4_30 - 20-SWF-32502_1c.5ST3010-0HGd.CAPDIS S2+3.All O/C relays 7SJ81-P1J616731 are customer supplied to factory4.4.For the Pressure Relief Duct as selected in NXTOOLS+, kindly refer to the customer drawings showing 250mm length.5.Pressure relief duct to be from Side panel of the switchgear."
+        }
+    },
+    "Parameter Setting":{
+        " Parameter settings of protection relays: ":{
+            "value" : "Customer"
+        },
+        " Parameter Settings of bus interface: " :{
+            "value" : ""
+        },
+        "additionalParamSettings":{
+            "value" : ""
+        }
+    },
+    "Wiring Options" :{
+        " CT circuit " :{
+            "value" : "2.5 (Standard)"
+        },
+        " VT circuit ":{
+            "value" : ""
+        },
+        "Control":{
+            "value" :"1.5 (Standard)"
+        },
+        "Bus Wiring":{
+            "value":"2.5 (Standard)"
+        },
+        " Colored Insulation " :{
+            "value" : "Colored (Specification required): CT wiring as per DTO"
+        },
+        " Wire Type ":{
+            "value" : "H05V-K/H07V-K (Standard)(Silicon free, 70 °C)"
+        },
+        "Wire Marking":{
+            "value" :"with"
+        },
+        "Type :":{
+            "value" : "Adhesive White Label"
+        },
+        "Text":{
+            "value" : "Source and Destination (Standard)"
+        },
+        "Panel Nameplate :" :{
+            "value" : "Plastic holder with paper 140 x 55 mm (Standard)"
+        },
+        "Control :":{
+            "value" : "VBSTB4-FS"
+        },
+        "CT terminals:" :{
+            "value":"UT 6-T/SP"
+        },
+        "Earth terminals :":{
+            "value" : "UT 4-PE"
+        },
+        "Bus Wiring terminals:" : {
+            "value" : "UPC3VK"
+        },
+        "Customer requirements for layout and connection of CT terminals :" :{
+            "value" :"No"
+        },
+        "Customer requirements for layout and connection of VT terminals :" :{
+            "value" :""
+        },
+        "Customer requirements for layout and connection of Tripping terminals" :{
+            "value" :""
+        },
+        "Customer requirement for protection of Open Delta winding and connection of damping resistor :" :{
+            "value" :"No"
+        }
+ 
+    },
+    "Auxiliary Voltage" : {
+        " Auxiliary Voltage " : {
+            "value" : "125V DC"
+        }
+    },
+    "Overall switchgear interlocking" :{
+        "Overall switchgear interlocking :" :{
+            "value" :"as indicated below: "
+        },
+        "On Load Busbar Transfer:":{
+            "value" : ""
+        },
+        "Load Shedding:":{
+            "value" : "Not Required"
+        },
+        "Others":{
+            "value" : "Detailed Description Required"
+        },
+        "Description": {
+            "value" : "Detailed description required: As per below: a.Incomer DS can be CLOSED only when All feeder CBs are OPEN b.Incomer DS can be OPENED when All feeder CBs are OPEN"
+        }
+    },
+    "Overall protection functions" : {
+        "Overall protection functions :" :{
+            "value" : "As Per Spec Paragraph"
+        }
+    },
+    "Heater and Lighting" :{
+        "LV compartment lighting:":{
+            "value" :"230V AC"
+        },
+        "LV compartment Heater:":{
+            "value" :"230V AC"
+        },
+        "CB Mechanism heater":{
+            "value" :"230V AC"
+        },
+        "LV compartment Utility Socket Outlet":{
+            "value" :"No"
+        }
+    },
+    "Remote Control" : {
+        "Remote Control" :{
+            "value" : "No"
+        }
+    },
+    "Typicals Section" :{
+        " Select Typicals ":{
+            "value1" :{
+                "Technical Details for Typical" : "Transformer Feeders, HZ08",
+                "Typical Designation" : "",
+                "value" : {
+                    "Additional Earth Switch Functions" : "Only mechanical operation"
+                }
+            },
+            "value2" :{
+                "Technical Details for Typical" : "",
+                "Protection Relay" :"",
+                "value" : {
+                    "Additional Earth Switch Functions" : "",
+                    "Signals From panel" : []
+                }
+            }
+        }
+    }
+}
